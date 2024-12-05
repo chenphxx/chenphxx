@@ -1,5 +1,5 @@
 ## Hi there 👋
-You can call me 秋白 or `小白`.<br>
+You can call me `秋白` or `小白`.<br>
 Some facts: 
 - Working on embeded. 
 - Currently learning C/C++ and Rust. 
